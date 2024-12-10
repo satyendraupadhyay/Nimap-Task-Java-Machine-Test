@@ -42,3 +42,5 @@
 9. *Fetching Product Details with Category:*
    - When fetching a single product, ensure that the response includes the relevant category details.
    - You can use DTOs (Data Transfer Objects) to customize the response format.
+  
+10. Used Postman to test
