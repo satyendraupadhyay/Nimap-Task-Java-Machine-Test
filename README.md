@@ -1,4 +1,7 @@
 # Java-Machine-test--Nimap-Task
+![image](https://github.com/user-attachments/assets/bec902fd-210f-4515-9116-49aae6367ab0)
+
+
 1. *Spring Boot Setup:*
    - Spring Boot provides a convenient way to create stand-alone, production-grade Spring-based applications. You can start by creating a new Spring Boot project using Spring Initializr or your preferred IDE.
    - Make sure to include the necessary dependencies for Spring Web, Spring Data JPA, and any database driver (e.g., H2, MySQL, PostgreSQL).
