@@ -1,4 +1,4 @@
-# Java-Machine-test--Nimap-Task
+# Java-Machine-test-Nimap-Task
 ![image](https://github.com/user-attachments/assets/bec902fd-210f-4515-9116-49aae6367ab0)
 
 
